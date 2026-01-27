@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "0005a4ea-ce3f-4dd7-bee0-f4ccc70fea6a",
+    "sku": "XIAO-359GB-001",
+    "name": "Xiaomi Model Pro",
+    "description": "Official Xiaomi product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Xiaomi",
+    "price": 25058.0,
+    "currency": "INR",
+    "discount_percent": 0,
+    "stock": 45,
+    "is_active": true,
+    "rating": 4.8,
+    "tags": [
+      "charger",
+      "amoled",
+      "tablet"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/xiaomi/front.png",
+      "https://cdn.example.com/xiaomi/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 27.4,
+      "width": 20.8,
+      "height": 1.9
+    },
+    "seller": {
+      "seller_id": "73cbdd06-5668-4e52-b172-e765f8468398",
+      "name": "Mi Store",
+      "email": "support@mistore.in",
+      "website": "https://www.mistore.in"
+    },
+    "created_at": "2024-09-06T00:00:00Z"
+  },
+  {
+    "id": "6c7b7c69-f07f-4474-992e-58d3c48ac437",
+    "sku": "REAL-135GB-002",
+    "name": "Realme Model Air",
+    "description": "Official Realme product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "Realme",
+    "price": 18249.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 47,
+    "is_active": true,
+    "rating": 4.6,
+    "tags": [
+      "gaming",
+      "5g",
+      "camera"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/realme/front.png",
+      "https://cdn.example.com/realme/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 24.0,
+      "width": 22.3,
+      "height": 2.8
+    },
+    "seller": {
+      "seller_id": "5ff1519e-b952-4315-9151-c94b938123c9",
+      "name": "Realme Official",
+      "email": "support@realmeofficial.in",
+      "website": "https://www.realmeofficial.in"
+    },
+    "created_at": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": "394d40e7-2a95-445d-8738-c6af6be5a97e",
+    "sku": "SAMS-225GB-003",
+    "name": "Samsung Model Max",
+    "description": "Official Samsung product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Samsung",
+    "price": 92264.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 47,
+    "is_active": true,
+    "rating": 4.5,
+    "tags": [
+      "5g",
+      "tablet",
+      "phone"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/samsung/front.png",
+      "https://cdn.example.com/samsung/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 16.4,
+      "width": 20.3,
+      "height": 1.9
+    },
+    "seller": {
+      "seller_id": "6e3a2dfd-4c0d-4938-98b1-f91be25e6558",
+      "name": "Samsung India",
+      "email": "support@samsungindia.in",
+      "website": "https://www.samsungindia.in"
+    },
+    "created_at": "2025-09-12T00:00:00Z"
+  },
+  {
+    "id": "82869c4e-501a-4893-aa4e-f15f35d93769",
+    "sku": "REAL-84GB-004",
+    "name": "Realme Model X",
+    "description": "Official Realme product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Realme",
+    "price": 100795.0,
+    "currency": "INR",
+    "discount_percent": 15,
+    "stock": 78,
+    "is_active": true,
+    "rating": 4.6,
+    "tags": [
+      "phone",
+      "camera",
+      "charger"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/realme/front.png",
+      "https://cdn.example.com/realme/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 33.6,
+      "width": 18.5,
+      "height": 1.2
+    },
+    "seller": {
+      "seller_id": "b6c34ac6-20cf-4983-82a4-c8d7679e30a2",
+      "name": "Realme Official",
+      "email": "support@realmeofficial.in",
+      "website": "https://www.realmeofficial.in"
+    },
+    "created_at": "2025-10-14T00:00:00Z"
+  },
+  {
+    "id": "3c8a2c1d-af86-47ae-b91e-7177cb2b1abf",
+    "sku": "XIAO-467GB-005",
+    "name": "Xiaomi Model X",
+    "description": "Official Xiaomi product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Xiaomi",
+    "price": 51425.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 68,
+    "is_active": true,
+    "rating": 4.2,
+    "tags": [
+      "laptop",
+      "gaming",
+      "charger"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/xiaomi/front.png",
+      "https://cdn.example.com/xiaomi/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 15.0,
+      "width": 8.5,
+      "height": 0.9
+    },
+    "seller": {
+      "seller_id": "8593fc09-61b2-4884-a07e-4932b71b639a",
+      "name": "Mi Store",
+      "email": "support@mistore.in",
+      "website": "https://www.mistore.in"
+    },
+    "created_at": "2025-08-04T00:00:00Z"
+  },
+  {
+    "id": "4f9cef8b-2efb-40ed-bb93-e61e66b682fe",
+    "sku": "LENO-364GB-006",
+    "name": "Lenovo Model Max",
+    "description": "Official Lenovo product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Lenovo",
+    "price": 9264.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 115,
+    "is_active": true,
+    "rating": 4.1,
+    "tags": [
+      "gaming",
+      "camera",
+      "charger"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/lenovo/front.png",
+      "https://cdn.example.com/lenovo/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 23.6,
+      "width": 10.9,
+      "height": 0.9
+    },
+    "seller": {
+      "seller_id": "aa8aa493-35e5-4cca-b02f-e31a13c50cc0",
+      "name": "Lenovo Store",
+      "email": "support@lenovostore.in",
+      "website": "https://www.lenovostore.in"
+    },
+    "created_at": "2025-09-14T00:00:00Z"
+  },
+  {
+    "id": "2e64ac5f-5859-4212-a0e8-36b8a42844ad",
+    "sku": "XIAO-269GB-007",
+    "name": "Xiaomi Model Ultra",
+    "description": "Official Xiaomi product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Xiaomi",
+    "price": 102499.0,
+    "currency": "INR",
+    "discount_percent": 0,
+    "stock": 6,
+    "is_active": true,
+    "rating": 4.4,
+    "tags": [
+      "amoled",
+      "tablet",
+      "charger"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/xiaomi/front.png",
+      "https://cdn.example.com/xiaomi/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 23.1,
+      "width": 22.4,
+      "height": 3.0
+    },
+    "seller": {
+      "seller_id": "af7590be-223c-4dee-a84e-cb4bcd614ca2",
+      "name": "Mi Store",
+      "email": "support@mistore.in",
+      "website": "https://www.mistore.in"
+    },
+    "created_at": "2025-07-15T00:00:00Z"
+  },
+  {
+    "id": "1decad6f-5f1e-419a-b839-01d076488980",
+    "sku": "XIAO-65GB-008",
+    "name": "Xiaomi Model Max",
+    "description": "Official Xiaomi product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "Xiaomi",
+    "price": 87663.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 34,
+    "is_active": true,
+    "rating": 4.3,
+    "tags": [
+      "phone",
+      "tablet",
+      "amoled"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/xiaomi/front.png",
+      "https://cdn.example.com/xiaomi/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 14.7,
+      "width": 16.8,
+      "height": 2.0
+    },
+    "seller": {
+      "seller_id": "54fe1904-01a3-41c5-8e11-1539ae38dc05",
+      "name": "Mi Store",
+      "email": "support@mistore.in",
+      "website": "https://www.mistore.in"
+    },
+    "created_at": "2024-08-17T00:00:00Z"
+  },
+  {
+    "id": "687aa260-1d94-4bc9-820d-6669446bafe8",
+    "sku": "ASUS-304GB-009",
+    "name": "Asus Model X",
+    "description": "Official Asus product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "Asus",
+    "price": 151220.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 62,
+    "is_active": true,
+    "rating": 3.9,
+    "tags": [
+      "amoled",
+      "laptop",
+      "ssd"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/asus/front.png",
+      "https://cdn.example.com/asus/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 24.9,
+      "width": 14.8,
+      "height": 0.6
+    },
+    "seller": {
+      "seller_id": "ac2c128f-3353-40bf-bf14-86e8046d3db2",
+      "name": "Asus Exclusive",
+      "email": "support@asusexclusive.in",
+      "website": "https://www.asusexclusive.in"
+    },
+    "created_at": "2024-04-07T00:00:00Z"
+  },
+  {
+    "id": "24a9d4f3-d78c-4a1e-b516-5c50c46fc1be",
+    "sku": "LENO-108GB-010",
+    "name": "Lenovo Model Ultra",
+    "description": "Official Lenovo product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Lenovo",
+    "price": 104427.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 89,
+    "is_active": true,
+    "rating": 4.1,
+    "tags": [
+      "camera",
+      "amoled",
+      "tablet"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/lenovo/front.png",
+      "https://cdn.example.com/lenovo/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 22.2,
+      "width": 14.5,
+      "height": 0.9
+    },
+    "seller": {
+      "seller_id": "28ca90ec-fc16-4ab5-89f6-5a7c0396b72d",
+      "name": "Lenovo Store",
+      "email": "support@lenovostore.in",
+      "website": "https://www.lenovostore.in"
+    },
+    "created_at": "2025-10-23T00:00:00Z"
+  },
+  {
+    "id": "36635fe0-bc3f-4350-b322-caa5e0cef131",
+    "sku": "LENO-376GB-011",
+    "name": "Lenovo Model Pro",
+    "description": "Official Lenovo product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Lenovo",
+    "price": 12134.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 87,
+    "is_active": true,
+    "rating": 4.6,
+    "tags": [
+      "charger",
+      "phone",
+      "camera"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/lenovo/front.png",
+      "https://cdn.example.com/lenovo/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 28.9,
+      "width": 18.8,
+      "height": 1.8
+    },
+    "seller": {
+      "seller_id": "9c910299-08d4-428d-9820-665053fe388d",
+      "name": "Lenovo Store",
+      "email": "support@lenovostore.in",
+      "website": "https://www.lenovostore.in"
+    },
+    "created_at": "2025-02-26T00:00:00Z"
+  },
+  {
+    "id": "8d75c78f-6835-450d-a3cb-118a60d71b91",
+    "sku": "HP-301GB-012",
+    "name": "HP Model Max",
+    "description": "Official HP product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "HP",
+    "price": 104697.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 97,
+    "is_active": true,
+    "rating": 4.4,
+    "tags": [
+      "camera",
+      "gaming",
+      "ssd"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/hp/front.png",
+      "https://cdn.example.com/hp/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 13.6,
+      "width": 14.5,
+      "height": 3.2
+    },
+    "seller": {
+      "seller_id": "5c0d9b47-5974-451e-b330-3fc3ebbb0cc3",
+      "name": "HP World",
+      "email": "support@hpworld.in",
+      "website": "https://www.hpworld.in"
+    },
+    "created_at": "2024-06-19T00:00:00Z"
+  },
+  {
+    "id": "ce13e46c-69b4-4517-ab3b-89260fd9e65d",
+    "sku": "APPL-465GB-013",
+    "name": "Apple Model Pro",
+    "description": "Official Apple product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "Apple",
+    "price": 19158.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 54,
+    "is_active": true,
+    "rating": 4.5,
+    "tags": [
+      "5g",
+      "amoled",
+      "laptop"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/apple/front.png",
+      "https://cdn.example.com/apple/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 17.6,
+      "width": 12.1,
+      "height": 2.7
+    },
+    "seller": {
+      "seller_id": "67f40ec8-d001-41a5-97d0-e89751c86485",
+      "name": "Apple Store India",
+      "email": "support@applestoreindia.in",
+      "website": "https://www.applestoreindia.in"
+    },
+    "created_at": "2024-09-18T00:00:00Z"
+  },
+  {
+    "id": "2f54696f-d3e1-44a3-a3cd-d8579fae2d7b",
+    "sku": "LENO-342GB-014",
+    "name": "Lenovo Model X",
+    "description": "Official Lenovo product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Lenovo",
+    "price": 125961.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 66,
+    "is_active": true,
+    "rating": 3.9,
+    "tags": [
+      "phone",
+      "tablet",
+      "ssd"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/lenovo/front.png",
+      "https://cdn.example.com/lenovo/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 22.2,
+      "width": 17.7,
+      "height": 2.6
+    },
+    "seller": {
+      "seller_id": "6caf5244-f9c7-4196-ae79-452f0f0a30a1",
+      "name": "Lenovo Store",
+      "email": "support@lenovostore.in",
+      "website": "https://www.lenovostore.in"
+    },
+    "created_at": "2024-12-23T00:00:00Z"
+  },
+  {
+    "id": "d477310c-1f42-44d3-9866-b9d37ca29d93",
+    "sku": "LENO-288GB-015",
+    "name": "Lenovo Model Ultra",
+    "description": "Official Lenovo product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Lenovo",
+    "price": 145016.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 64,
+    "is_active": true,
+    "rating": 4.3,
+    "tags": [
+      "phone",
+      "5g",
+      "amoled"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/lenovo/front.png",
+      "https://cdn.example.com/lenovo/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 12.9,
+      "width": 18.9,
+      "height": 1.0
+    },
+    "seller": {
+      "seller_id": "ac492f06-f160-46c9-be2c-d94d1635260c",
+      "name": "Lenovo Store",
+      "email": "support@lenovostore.in",
+      "website": "https://www.lenovostore.in"
+    },
+    "created_at": "2025-08-01T00:00:00Z"
+  },
+  {
+    "id": "42af2062-c5d5-4bdb-8f0e-36da5b629892",
+    "sku": "ONEP-113GB-016",
+    "name": "OnePlus Model Max",
+    "description": "Official OnePlus product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "OnePlus",
+    "price": 107820.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 31,
+    "is_active": true,
+    "rating": 4.7,
+    "tags": [
+      "charger",
+      "camera",
+      "amoled"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/oneplus/front.png",
+      "https://cdn.example.com/oneplus/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 16.9,
+      "width": 11.2,
+      "height": 0.7
+    },
+    "seller": {
+      "seller_id": "3d122d55-2040-45ed-9132-f77e61e28eac",
+      "name": "OnePlus Store",
+      "email": "support@oneplusstore.in",
+      "website": "https://www.oneplusstore.in"
+    },
+    "created_at": "2024-12-10T00:00:00Z"
+  },
+  {
+    "id": "a16d0e4b-c73a-4f23-b512-503f89124109",
+    "sku": "LENO-389GB-017",
+    "name": "Lenovo Model Air",
+    "description": "Official Lenovo product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Lenovo",
+    "price": 16396.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 100,
+    "is_active": true,
+    "rating": 4.6,
+    "tags": [
+      "camera",
+      "ssd",
+      "gaming"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/lenovo/front.png",
+      "https://cdn.example.com/lenovo/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 24.4,
+      "width": 11.6,
+      "height": 0.7
+    },
+    "seller": {
+      "seller_id": "5363aba3-7f97-4190-acac-3fc15aab010d",
+      "name": "Lenovo Store",
+      "email": "support@lenovostore.in",
+      "website": "https://www.lenovostore.in"
+    },
+    "created_at": "2024-12-29T00:00:00Z"
+  },
+  {
+    "id": "185d8d30-95e9-41f0-95e0-1ea356722f5b",
+    "sku": "HP-346GB-018",
+    "name": "HP Model Max",
+    "description": "Official HP product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "HP",
+    "price": 84409.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 69,
+    "is_active": true,
+    "rating": 4.0,
+    "tags": [
+      "5g",
+      "camera",
+      "laptop"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/hp/front.png",
+      "https://cdn.example.com/hp/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 29.7,
+      "width": 23.3,
+      "height": 2.8
+    },
+    "seller": {
+      "seller_id": "832461d9-a8a4-40f4-a452-b3407691828b",
+      "name": "HP World",
+      "email": "support@hpworld.in",
+      "website": "https://www.hpworld.in"
+    },
+    "created_at": "2024-02-24T00:00:00Z"
+  },
+  {
+    "id": "77fe477f-a52d-4a67-85ec-d6d12e7e4f7c",
+    "sku": "LENO-202GB-019",
+    "name": "Lenovo Model Max",
+    "description": "Official Lenovo product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "Lenovo",
+    "price": 104946.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 112,
+    "is_active": true,
+    "rating": 4.6,
+    "tags": [
+      "tablet",
+      "ssd",
+      "gaming"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/lenovo/front.png",
+      "https://cdn.example.com/lenovo/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 19.4,
+      "width": 12.3,
+      "height": 1.5
+    },
+    "seller": {
+      "seller_id": "37aca351-fa92-43d7-a7bf-5c95fbfc73fd",
+      "name": "Lenovo Store",
+      "email": "support@lenovostore.in",
+      "website": "https://www.lenovostore.in"
+    },
+    "created_at": "2025-06-03T00:00:00Z"
+  },
+  {
+    "id": "a0752149-a1c8-498c-98b2-7c4084434699",
+    "sku": "SAMS-426GB-020",
+    "name": "Samsung Model Air",
+    "description": "Official Samsung product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Samsung",
+    "price": 156385.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 80,
+    "is_active": true,
+    "rating": 4.4,
+    "tags": [
+      "phone",
+      "amoled",
+      "laptop"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/samsung/front.png",
+      "https://cdn.example.com/samsung/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 22.6,
+      "width": 9.4,
+      "height": 1.0
+    },
+    "seller": {
+      "seller_id": "b77c8305-2701-4851-9ead-aaad1eb9b342",
+      "name": "Samsung India",
+      "email": "support@samsungindia.in",
+      "website": "https://www.samsungindia.in"
+    },
+    "created_at": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "2f01fa49-f3ad-4f65-97c6-3935bbc65162",
+    "sku": "APPL-88GB-021",
+    "name": "Apple Model X",
+    "description": "Official Apple product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "Apple",
+    "price": 25326.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 107,
+    "is_active": true,
+    "rating": 4.8,
+    "tags": [
+      "camera",
+      "amoled",
+      "ssd"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/apple/front.png",
+      "https://cdn.example.com/apple/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 30.5,
+      "width": 13.4,
+      "height": 1.6
+    },
+    "seller": {
+      "seller_id": "63cb1cb0-2d0b-4ff9-bc1d-e6a374a0a33d",
+      "name": "Apple Store India",
+      "email": "support@applestoreindia.in",
+      "website": "https://www.applestoreindia.in"
+    },
+    "created_at": "2025-01-14T00:00:00Z"
+  },
+  {
+    "id": "b9cf1694-cfc0-4a1b-aaed-411f32c3406a",
+    "sku": "DELL-226GB-022",
+    "name": "Dell Model Pro",
+    "description": "Official Dell product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Dell",
+    "price": 96633.0,
+    "currency": "INR",
+    "discount_percent": 0,
+    "stock": 54,
+    "is_active": true,
+    "rating": 4.5,
+    "tags": [
+      "amoled",
+      "gaming",
+      "phone"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/dell/front.png",
+      "https://cdn.example.com/dell/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 24.6,
+      "width": 14.2,
+      "height": 1.8
+    },
+    "seller": {
+      "seller_id": "767eda2c-4ac9-4cdf-b5d4-50ce064dd547",
+      "name": "Dell Exclusive",
+      "email": "support@dellexclusive.in",
+      "website": "https://www.dellexclusive.in"
+    },
+    "created_at": "2024-01-21T00:00:00Z"
+  },
+  {
+    "id": "393c32c5-b313-4caa-a04d-5bb0cdf3bdeb",
+    "sku": "DELL-163GB-023",
+    "name": "Dell Model Ultra",
+    "description": "Official Dell product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Dell",
+    "price": 31491.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 32,
+    "is_active": true,
+    "rating": 4.0,
+    "tags": [
+      "tablet",
+      "phone",
+      "gaming"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/dell/front.png",
+      "https://cdn.example.com/dell/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 33.2,
+      "width": 7.6,
+      "height": 2.2
+    },
+    "seller": {
+      "seller_id": "711c6d3a-cb5c-48ed-be49-eae99353580d",
+      "name": "Dell Exclusive",
+      "email": "support@dellexclusive.in",
+      "website": "https://www.dellexclusive.in"
+    },
+    "created_at": "2024-05-28T00:00:00Z"
+  },
+  {
+    "id": "ceac110e-d32b-40c5-a703-7d7719623ac5",
+    "sku": "DELL-306GB-024",
+    "name": "Dell Model Pro",
+    "description": "Official Dell product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "Dell",
+    "price": 77176.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 49,
+    "is_active": true,
+    "rating": 4.4,
+    "tags": [
+      "5g",
+      "camera",
+      "laptop"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/dell/front.png",
+      "https://cdn.example.com/dell/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 15.5,
+      "width": 8.7,
+      "height": 2.4
+    },
+    "seller": {
+      "seller_id": "397d6971-9466-467d-a815-14c76fe22fc7",
+      "name": "Dell Exclusive",
+      "email": "support@dellexclusive.in",
+      "website": "https://www.dellexclusive.in"
+    },
+    "created_at": "2024-12-11T00:00:00Z"
+  },
+  {
+    "id": "154e54bf-62c8-4a42-97a7-5bdf73bbf2f9",
+    "sku": "HP-444GB-025",
+    "name": "HP Model Max",
+    "description": "Official HP product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "HP",
+    "price": 55953.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 52,
+    "is_active": true,
+    "rating": 4.5,
+    "tags": [
+      "phone",
+      "laptop",
+      "5g"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/hp/front.png",
+      "https://cdn.example.com/hp/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 28.3,
+      "width": 10.7,
+      "height": 2.6
+    },
+    "seller": {
+      "seller_id": "55e3993f-7124-4c85-bc93-44055a861484",
+      "name": "HP World",
+      "email": "support@hpworld.in",
+      "website": "https://www.hpworld.in"
+    },
+    "created_at": "2025-07-21T00:00:00Z"
+  },
+  {
+    "id": "a43deaa1-fd6c-49e4-a0a5-72dbd4179795",
+    "sku": "LENO-441GB-026",
+    "name": "Lenovo Model Ultra",
+    "description": "Official Lenovo product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "Lenovo",
+    "price": 65276.0,
+    "currency": "INR",
+    "discount_percent": 15,
+    "stock": 15,
+    "is_active": true,
+    "rating": 4.7,
+    "tags": [
+      "charger",
+      "laptop",
+      "amoled"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/lenovo/front.png",
+      "https://cdn.example.com/lenovo/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 28.9,
+      "width": 11.9,
+      "height": 2.6
+    },
+    "seller": {
+      "seller_id": "45fde7c6-dcfc-4f9a-9cba-9c6653ded183",
+      "name": "Lenovo Store",
+      "email": "support@lenovostore.in",
+      "website": "https://www.lenovostore.in"
+    },
+    "created_at": "2024-03-01T00:00:00Z"
+  },
+  {
+    "id": "631ea80e-c041-4b82-a03b-743dc5c10d62",
+    "sku": "LENO-433GB-027",
+    "name": "Lenovo Model Pro",
+    "description": "Official Lenovo product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Lenovo",
+    "price": 168288.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 50,
+    "is_active": true,
+    "rating": 4.7,
+    "tags": [
+      "ssd",
+      "tablet",
+      "5g"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/lenovo/front.png",
+      "https://cdn.example.com/lenovo/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 24.8,
+      "width": 19.4,
+      "height": 1.3
+    },
+    "seller": {
+      "seller_id": "321509ce-4c17-4703-9710-1e7163ea7695",
+      "name": "Lenovo Store",
+      "email": "support@lenovostore.in",
+      "website": "https://www.lenovostore.in"
+    },
+    "created_at": "2024-03-01T00:00:00Z"
+  },
+  {
+    "id": "e37920e0-06b3-4315-8efb-f7d946144732",
+    "sku": "SAMS-269GB-028",
+    "name": "Samsung Model Pro",
+    "description": "Official Samsung product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Samsung",
+    "price": 32024.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 87,
+    "is_active": true,
+    "rating": 4.8,
+    "tags": [
+      "tablet",
+      "phone",
+      "gaming"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/samsung/front.png",
+      "https://cdn.example.com/samsung/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 19.7,
+      "width": 20.4,
+      "height": 2.5
+    },
+    "seller": {
+      "seller_id": "67208d89-73b8-486a-952f-8d68fa93782e",
+      "name": "Samsung India",
+      "email": "support@samsungindia.in",
+      "website": "https://www.samsungindia.in"
+    },
+    "created_at": "2025-09-18T00:00:00Z"
+  },
+  {
+    "id": "c7ea1b58-e9c9-44d8-bb50-0ffdca421dc7",
+    "sku": "DELL-330GB-029",
+    "name": "Dell Model Air",
+    "description": "Official Dell product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "Dell",
+    "price": 147999.0,
+    "currency": "INR",
+    "discount_percent": 15,
+    "stock": 106,
+    "is_active": true,
+    "rating": 4.2,
+    "tags": [
+      "phone",
+      "5g",
+      "amoled"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/dell/front.png",
+      "https://cdn.example.com/dell/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 14.1,
+      "width": 22.4,
+      "height": 2.5
+    },
+    "seller": {
+      "seller_id": "7955678a-6e5c-4c47-a4f9-80402e79640f",
+      "name": "Dell Exclusive",
+      "email": "support@dellexclusive.in",
+      "website": "https://www.dellexclusive.in"
+    },
+    "created_at": "2024-10-04T00:00:00Z"
+  },
+  {
+    "id": "acb934c2-0839-4cff-988f-29af60f71bae",
+    "sku": "APPL-474GB-030",
+    "name": "Apple Model Pro",
+    "description": "Official Apple product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "Apple",
+    "price": 175254.0,
+    "currency": "INR",
+    "discount_percent": 15,
+    "stock": 42,
+    "is_active": true,
+    "rating": 4.6,
+    "tags": [
+      "5g",
+      "gaming",
+      "ssd"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/apple/front.png",
+      "https://cdn.example.com/apple/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 31.0,
+      "width": 24.6,
+      "height": 2.5
+    },
+    "seller": {
+      "seller_id": "6810cbe9-11bb-4f84-8f13-ca4bcca9f386",
+      "name": "Apple Store India",
+      "email": "support@applestoreindia.in",
+      "website": "https://www.applestoreindia.in"
+    },
+    "created_at": "2024-05-26T00:00:00Z"
+  },
+  {
+    "id": "87c44d56-bb5d-4120-a401-412df168db85",
+    "sku": "HP-384GB-031",
+    "name": "HP Model Air",
+    "description": "Official HP product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "HP",
+    "price": 76183.0,
+    "currency": "INR",
+    "discount_percent": 15,
+    "stock": 52,
+    "is_active": true,
+    "rating": 4.4,
+    "tags": [
+      "5g",
+      "phone",
+      "amoled"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/hp/front.png",
+      "https://cdn.example.com/hp/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 28.4,
+      "width": 15.9,
+      "height": 1.6
+    },
+    "seller": {
+      "seller_id": "997a8dbc-5691-4714-8d30-106be27b2f27",
+      "name": "HP World",
+      "email": "support@hpworld.in",
+      "website": "https://www.hpworld.in"
+    },
+    "created_at": "2024-06-30T00:00:00Z"
+  },
+  {
+    "id": "12e1ed67-d8dd-4767-88a6-876c1300dca8",
+    "sku": "ONEP-156GB-032",
+    "name": "OnePlus Model Air",
+    "description": "Official OnePlus product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "OnePlus",
+    "price": 79490.0,
+    "currency": "INR",
+    "discount_percent": 15,
+    "stock": 89,
+    "is_active": true,
+    "rating": 4.4,
+    "tags": [
+      "gaming",
+      "amoled",
+      "tablet"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/oneplus/front.png",
+      "https://cdn.example.com/oneplus/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 27.0,
+      "width": 14.7,
+      "height": 2.6
+    },
+    "seller": {
+      "seller_id": "623d0232-56dc-4084-a75e-5c3bf1d1a009",
+      "name": "OnePlus Store",
+      "email": "support@oneplusstore.in",
+      "website": "https://www.oneplusstore.in"
+    },
+    "created_at": "2024-05-22T00:00:00Z"
+  },
+  {
+    "id": "1996dea0-49b4-4909-b015-97194b239906",
+    "sku": "SONY-157GB-033",
+    "name": "Sony Model Max",
+    "description": "Official Sony product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Sony",
+    "price": 148270.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 92,
+    "is_active": true,
+    "rating": 4.3,
+    "tags": [
+      "camera",
+      "5g",
+      "laptop"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/sony/front.png",
+      "https://cdn.example.com/sony/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 27.0,
+      "width": 12.7,
+      "height": 2.7
+    },
+    "seller": {
+      "seller_id": "76f1e2e2-8894-496f-91ac-a27ea1d54baa",
+      "name": "Sony Center",
+      "email": "support@sonycenter.in",
+      "website": "https://www.sonycenter.in"
+    },
+    "created_at": "2025-03-17T00:00:00Z"
+  },
+  {
+    "id": "3069d9a8-6b5c-4eec-96e2-99b83cab0a29",
+    "sku": "APPL-512GB-034",
+    "name": "Apple Model Pro",
+    "description": "Official Apple product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "Apple",
+    "price": 64908.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 104,
+    "is_active": true,
+    "rating": 4.7,
+    "tags": [
+      "ssd",
+      "tablet",
+      "amoled"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/apple/front.png",
+      "https://cdn.example.com/apple/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 25.8,
+      "width": 9.3,
+      "height": 1.3
+    },
+    "seller": {
+      "seller_id": "cd112486-8b13-455b-9c95-b4bbbac5046a",
+      "name": "Apple Store India",
+      "email": "support@applestoreindia.in",
+      "website": "https://www.applestoreindia.in"
+    },
+    "created_at": "2024-06-03T00:00:00Z"
+  },
+  {
+    "id": "12ff1959-d9ec-448f-8cd0-1e2361d37f99",
+    "sku": "REAL-359GB-035",
+    "name": "Realme Model X",
+    "description": "Official Realme product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Realme",
+    "price": 115166.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 35,
+    "is_active": true,
+    "rating": 4.5,
+    "tags": [
+      "laptop",
+      "tablet",
+      "gaming"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/realme/front.png",
+      "https://cdn.example.com/realme/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 18.3,
+      "width": 14.9,
+      "height": 2.8
+    },
+    "seller": {
+      "seller_id": "2570a91b-8ba3-48cb-8a0f-0fafc7dc51ed",
+      "name": "Realme Official",
+      "email": "support@realmeofficial.in",
+      "website": "https://www.realmeofficial.in"
+    },
+    "created_at": "2025-02-10T00:00:00Z"
+  },
+  {
+    "id": "ef09da88-47ea-406a-ae8a-84df6a86ac20",
+    "sku": "ASUS-351GB-036",
+    "name": "Asus Model Max",
+    "description": "Official Asus product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Asus",
+    "price": 43728.0,
+    "currency": "INR",
+    "discount_percent": 0,
+    "stock": 103,
+    "is_active": true,
+    "rating": 3.9,
+    "tags": [
+      "5g",
+      "gaming",
+      "charger"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/asus/front.png",
+      "https://cdn.example.com/asus/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 32.4,
+      "width": 13.6,
+      "height": 2.7
+    },
+    "seller": {
+      "seller_id": "b51d8fb2-77ba-4bc7-ae53-c29a93ae744a",
+      "name": "Asus Exclusive",
+      "email": "support@asusexclusive.in",
+      "website": "https://www.asusexclusive.in"
+    },
+    "created_at": "2024-12-18T00:00:00Z"
+  },
+  {
+    "id": "a2de6df2-be9a-4c17-82a0-33c680fbf8b5",
+    "sku": "APPL-108GB-037",
+    "name": "Apple Model Pro",
+    "description": "Official Apple product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Apple",
+    "price": 124017.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 24,
+    "is_active": true,
+    "rating": 4.3,
+    "tags": [
+      "tablet",
+      "ssd",
+      "charger"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/apple/front.png",
+      "https://cdn.example.com/apple/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 21.1,
+      "width": 17.7,
+      "height": 3.2
+    },
+    "seller": {
+      "seller_id": "1ecb3c52-703e-4d58-bb32-bcb682a432b0",
+      "name": "Apple Store India",
+      "email": "support@applestoreindia.in",
+      "website": "https://www.applestoreindia.in"
+    },
+    "created_at": "2025-08-08T00:00:00Z"
+  },
+  {
+    "id": "642d5396-0c4f-4e91-9f02-5e3d8732d111",
+    "sku": "SAMS-331GB-038",
+    "name": "Samsung Model Ultra",
+    "description": "Official Samsung product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "Samsung",
+    "price": 152600.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 42,
+    "is_active": true,
+    "rating": 4.2,
+    "tags": [
+      "5g",
+      "laptop",
+      "camera"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/samsung/front.png",
+      "https://cdn.example.com/samsung/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 32.7,
+      "width": 18.9,
+      "height": 3.1
+    },
+    "seller": {
+      "seller_id": "62715e5e-351c-40a2-9d10-c48d0732319e",
+      "name": "Samsung India",
+      "email": "support@samsungindia.in",
+      "website": "https://www.samsungindia.in"
+    },
+    "created_at": "2024-04-02T00:00:00Z"
+  },
+  {
+    "id": "b24a671f-e167-4244-bbcc-f0c6c339b40d",
+    "sku": "SONY-370GB-039",
+    "name": "Sony Model Max",
+    "description": "Official Sony product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "Sony",
+    "price": 88482.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 32,
+    "is_active": true,
+    "rating": 4.4,
+    "tags": [
+      "camera",
+      "gaming",
+      "charger"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/sony/front.png",
+      "https://cdn.example.com/sony/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 16.9,
+      "width": 23.0,
+      "height": 1.9
+    },
+    "seller": {
+      "seller_id": "91e2cb60-a40a-42fb-8d95-3f356dd752d8",
+      "name": "Sony Center",
+      "email": "support@sonycenter.in",
+      "website": "https://www.sonycenter.in"
+    },
+    "created_at": "2024-11-19T00:00:00Z"
+  },
+  {
+    "id": "aba7aebb-684b-43e4-9ce9-1ca02bb20c7e",
+    "sku": "REAL-223GB-040",
+    "name": "Realme Model Ultra",
+    "description": "Official Realme product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Realme",
+    "price": 76687.0,
+    "currency": "INR",
+    "discount_percent": 15,
+    "stock": 45,
+    "is_active": true,
+    "rating": 3.9,
+    "tags": [
+      "phone",
+      "tablet",
+      "laptop"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/realme/front.png",
+      "https://cdn.example.com/realme/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 20.9,
+      "width": 22.1,
+      "height": 3.2
+    },
+    "seller": {
+      "seller_id": "401c0028-47e6-4567-ba95-9f0d91dc5140",
+      "name": "Realme Official",
+      "email": "support@realmeofficial.in",
+      "website": "https://www.realmeofficial.in"
+    },
+    "created_at": "2024-02-04T00:00:00Z"
+  },
+  {
+    "id": "b4a0ec9d-39a3-4871-bf9a-401cc1fb780e",
+    "sku": "DELL-90GB-041",
+    "name": "Dell Model X",
+    "description": "Official Dell product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "Dell",
+    "price": 71243.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 74,
+    "is_active": true,
+    "rating": 4.2,
+    "tags": [
+      "camera",
+      "charger",
+      "5g"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/dell/front.png",
+      "https://cdn.example.com/dell/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 20.8,
+      "width": 24.4,
+      "height": 1.3
+    },
+    "seller": {
+      "seller_id": "a7e35e04-a7bb-4c13-84d1-7b064079e88e",
+      "name": "Dell Exclusive",
+      "email": "support@dellexclusive.in",
+      "website": "https://www.dellexclusive.in"
+    },
+    "created_at": "2024-07-05T00:00:00Z"
+  },
+  {
+    "id": "668d483d-f82b-406c-8f8e-f1c0309c13e4",
+    "sku": "ASUS-79GB-042",
+    "name": "Asus Model Pro",
+    "description": "Official Asus product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "Asus",
+    "price": 166811.0,
+    "currency": "INR",
+    "discount_percent": 15,
+    "stock": 110,
+    "is_active": true,
+    "rating": 4.4,
+    "tags": [
+      "laptop",
+      "gaming",
+      "ssd"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/asus/front.png",
+      "https://cdn.example.com/asus/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 23.0,
+      "width": 17.4,
+      "height": 0.8
+    },
+    "seller": {
+      "seller_id": "2745d540-23e8-48d9-a63c-99556216f09a",
+      "name": "Asus Exclusive",
+      "email": "support@asusexclusive.in",
+      "website": "https://www.asusexclusive.in"
+    },
+    "created_at": "2024-06-15T00:00:00Z"
+  },
+  {
+    "id": "d3c76402-9a38-4efc-ac10-bc2f09e4f445",
+    "sku": "ASUS-201GB-043",
+    "name": "Asus Model Max",
+    "description": "Official Asus product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Asus",
+    "price": 78546.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 97,
+    "is_active": true,
+    "rating": 3.9,
+    "tags": [
+      "amoled",
+      "5g",
+      "ssd"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/asus/front.png",
+      "https://cdn.example.com/asus/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 28.6,
+      "width": 20.4,
+      "height": 1.7
+    },
+    "seller": {
+      "seller_id": "3e65e779-2fa5-4aa6-97bf-3837afd36297",
+      "name": "Asus Exclusive",
+      "email": "support@asusexclusive.in",
+      "website": "https://www.asusexclusive.in"
+    },
+    "created_at": "2024-11-01T00:00:00Z"
+  },
+  {
+    "id": "ff049d22-d3d0-4d34-bc30-d1d82fd40346",
+    "sku": "REAL-226GB-044",
+    "name": "Realme Model Air",
+    "description": "Official Realme product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Realme",
+    "price": 52159.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 76,
+    "is_active": true,
+    "rating": 4.2,
+    "tags": [
+      "camera",
+      "tablet",
+      "phone"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/realme/front.png",
+      "https://cdn.example.com/realme/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 22.4,
+      "width": 19.0,
+      "height": 1.8
+    },
+    "seller": {
+      "seller_id": "cce6dbef-d042-48b7-ac10-140bbffb94a5",
+      "name": "Realme Official",
+      "email": "support@realmeofficial.in",
+      "website": "https://www.realmeofficial.in"
+    },
+    "created_at": "2025-10-05T00:00:00Z"
+  },
+  {
+    "id": "35419e47-fada-43cf-b7bc-b40e3f108f9a",
+    "sku": "DELL-213GB-045",
+    "name": "Dell Model Pro",
+    "description": "Official Dell product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "Dell",
+    "price": 151128.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 16,
+    "is_active": true,
+    "rating": 4.1,
+    "tags": [
+      "amoled",
+      "5g",
+      "gaming"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/dell/front.png",
+      "https://cdn.example.com/dell/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 32.7,
+      "width": 7.8,
+      "height": 2.8
+    },
+    "seller": {
+      "seller_id": "98448cd6-c222-4a8c-9adf-370a3a04ba2b",
+      "name": "Dell Exclusive",
+      "email": "support@dellexclusive.in",
+      "website": "https://www.dellexclusive.in"
+    },
+    "created_at": "2025-04-24T00:00:00Z"
+  },
+  {
+    "id": "0af1505b-f91e-4ade-8027-f626d5b52d56",
+    "sku": "DELL-278GB-046",
+    "name": "Dell Model Air",
+    "description": "Official Dell product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "Dell",
+    "price": 47934.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 50,
+    "is_active": true,
+    "rating": 4.7,
+    "tags": [
+      "phone",
+      "5g",
+      "tablet"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/dell/front.png",
+      "https://cdn.example.com/dell/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 34.6,
+      "width": 18.1,
+      "height": 3.5
+    },
+    "seller": {
+      "seller_id": "97bd5e09-8fbb-4aea-ab65-6099ea4adcdd",
+      "name": "Dell Exclusive",
+      "email": "support@dellexclusive.in",
+      "website": "https://www.dellexclusive.in"
+    },
+    "created_at": "2024-01-31T00:00:00Z"
+  },
+  {
+    "id": "bf282030-21ab-4428-a02b-12178f13b170",
+    "sku": "SONY-108GB-047",
+    "name": "Sony Model X",
+    "description": "Official Sony product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "Sony",
+    "price": 105143.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 89,
+    "is_active": true,
+    "rating": 3.8,
+    "tags": [
+      "camera",
+      "tablet",
+      "gaming"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/sony/front.png",
+      "https://cdn.example.com/sony/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 18.2,
+      "width": 20.0,
+      "height": 1.2
+    },
+    "seller": {
+      "seller_id": "352c586a-ba75-4fe3-a620-ba81154a6682",
+      "name": "Sony Center",
+      "email": "support@sonycenter.in",
+      "website": "https://www.sonycenter.in"
+    },
+    "created_at": "2025-02-02T00:00:00Z"
+  },
+  {
+    "id": "df5a5ec8-122e-4f4c-9909-b6cac5a6ee12",
+    "sku": "XIAO-497GB-048",
+    "name": "Xiaomi Model Ultra",
+    "description": "Official Xiaomi product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Xiaomi",
+    "price": 16404.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 45,
+    "is_active": true,
+    "rating": 4.8,
+    "tags": [
+      "ssd",
+      "laptop",
+      "phone"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/xiaomi/front.png",
+      "https://cdn.example.com/xiaomi/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 20.8,
+      "width": 21.3,
+      "height": 3.5
+    },
+    "seller": {
+      "seller_id": "fa8943bd-95f8-449b-9961-e7c9af44869d",
+      "name": "Mi Store",
+      "email": "support@mistore.in",
+      "website": "https://www.mistore.in"
+    },
+    "created_at": "2025-01-02T00:00:00Z"
+  },
+  {
+    "id": "b460099f-39d2-48a3-bf2f-bfe6d04f4269",
+    "sku": "APPL-212GB-049",
+    "name": "Apple Model X",
+    "description": "Official Apple product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Apple",
+    "price": 40637.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 91,
+    "is_active": true,
+    "rating": 4.3,
+    "tags": [
+      "phone",
+      "amoled",
+      "laptop"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/apple/front.png",
+      "https://cdn.example.com/apple/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 33.8,
+      "width": 21.9,
+      "height": 2.9
+    },
+    "seller": {
+      "seller_id": "b6bdf505-d880-4d85-870c-d70acfd75adc",
+      "name": "Apple Store India",
+      "email": "support@applestoreindia.in",
+      "website": "https://www.applestoreindia.in"
+    },
+    "created_at": "2024-12-08T00:00:00Z"
+  },
+  {
+    "id": "216ceec5-2aa9-4a16-b919-c564180651e2",
+    "sku": "ONEP-415GB-050",
+    "name": "OnePlus Model Max",
+    "description": "Official OnePlus product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "OnePlus",
+    "price": 120613.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 75,
+    "is_active": true,
+    "rating": 4.2,
+    "tags": [
+      "amoled",
+      "camera",
+      "laptop"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/oneplus/front.png",
+      "https://cdn.example.com/oneplus/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 31.2,
+      "width": 15.5,
+      "height": 0.6
+    },
+    "seller": {
+      "seller_id": "aa1e8839-7ec7-4298-b0da-97f6ba761c80",
+      "name": "OnePlus Store",
+      "email": "support@oneplusstore.in",
+      "website": "https://www.oneplusstore.in"
+    },
+    "created_at": "2025-10-18T00:00:00Z"
+  },
+  {
+    "id": "e3bed743-f038-4940-8c88-d80c429fdbb9",
+    "sku": "SONY-492GB-051",
+    "name": "Sony Model Pro",
+    "description": "Official Sony product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "Sony",
+    "price": 75914.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 100,
+    "is_active": true,
+    "rating": 4.5,
+    "tags": [
+      "amoled",
+      "laptop",
+      "tablet"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/sony/front.png",
+      "https://cdn.example.com/sony/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 14.3,
+      "width": 19.8,
+      "height": 2.2
+    },
+    "seller": {
+      "seller_id": "2b2f625d-2c1f-4f04-b761-5598d1a3ed5d",
+      "name": "Sony Center",
+      "email": "support@sonycenter.in",
+      "website": "https://www.sonycenter.in"
+    },
+    "created_at": "2024-11-12T00:00:00Z"
+  },
+  {
+    "id": "c546f6e6-82f7-4aee-b43e-e3746e884a76",
+    "sku": "SAMS-268GB-052",
+    "name": "Samsung Model Max",
+    "description": "Official Samsung product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "Samsung",
+    "price": 43123.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 50,
+    "is_active": true,
+    "rating": 4.2,
+    "tags": [
+      "laptop",
+      "tablet",
+      "ssd"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/samsung/front.png",
+      "https://cdn.example.com/samsung/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 14.5,
+      "width": 19.6,
+      "height": 0.7
+    },
+    "seller": {
+      "seller_id": "a2bed2c2-99c0-47a2-b9ff-cf6edcfda7c1",
+      "name": "Samsung India",
+      "email": "support@samsungindia.in",
+      "website": "https://www.samsungindia.in"
+    },
+    "created_at": "2024-07-07T00:00:00Z"
+  },
+  {
+    "id": "41116143-1edb-48a1-8cdb-c4f4978373b3",
+    "sku": "XIAO-147GB-053",
+    "name": "Xiaomi Model X",
+    "description": "Official Xiaomi product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Xiaomi",
+    "price": 29398.0,
+    "currency": "INR",
+    "discount_percent": 15,
+    "stock": 29,
+    "is_active": true,
+    "rating": 4.4,
+    "tags": [
+      "gaming",
+      "laptop",
+      "5g"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/xiaomi/front.png",
+      "https://cdn.example.com/xiaomi/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 15.6,
+      "width": 9.4,
+      "height": 1.9
+    },
+    "seller": {
+      "seller_id": "c05e9282-eb91-4e0d-8bba-f0d6e2b97acb",
+      "name": "Mi Store",
+      "email": "support@mistore.in",
+      "website": "https://www.mistore.in"
+    },
+    "created_at": "2024-12-04T00:00:00Z"
+  },
+  {
+    "id": "22568110-4c20-47bf-9828-62057953db23",
+    "sku": "ONEP-217GB-054",
+    "name": "OnePlus Model Ultra",
+    "description": "Official OnePlus product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "OnePlus",
+    "price": 134322.0,
+    "currency": "INR",
+    "discount_percent": 15,
+    "stock": 55,
+    "is_active": true,
+    "rating": 4.3,
+    "tags": [
+      "5g",
+      "camera",
+      "charger"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/oneplus/front.png",
+      "https://cdn.example.com/oneplus/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 22.9,
+      "width": 16.8,
+      "height": 2.4
+    },
+    "seller": {
+      "seller_id": "ab2522ec-c846-40ef-80ea-254163641f10",
+      "name": "OnePlus Store",
+      "email": "support@oneplusstore.in",
+      "website": "https://www.oneplusstore.in"
+    },
+    "created_at": "2024-03-10T00:00:00Z"
+  },
+  {
+    "id": "3e49f0b5-2fd8-4d37-b2a9-5badbb9df6ba",
+    "sku": "XIAO-487GB-055",
+    "name": "Xiaomi Model Max",
+    "description": "Official Xiaomi product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "Xiaomi",
+    "price": 9828.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 28,
+    "is_active": true,
+    "rating": 4.2,
+    "tags": [
+      "charger",
+      "ssd",
+      "laptop"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/xiaomi/front.png",
+      "https://cdn.example.com/xiaomi/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 17.1,
+      "width": 20.3,
+      "height": 3.0
+    },
+    "seller": {
+      "seller_id": "ae3378d5-afbd-46ff-9bfc-fc4b2ba6df2e",
+      "name": "Mi Store",
+      "email": "support@mistore.in",
+      "website": "https://www.mistore.in"
+    },
+    "created_at": "2025-08-02T00:00:00Z"
+  },
+  {
+    "id": "558c4bb8-e92b-4ce2-b495-ff267a0f4871",
+    "sku": "HP-124GB-056",
+    "name": "HP Model Pro",
+    "description": "Official HP product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "HP",
+    "price": 135838.0,
+    "currency": "INR",
+    "discount_percent": 15,
+    "stock": 95,
+    "is_active": true,
+    "rating": 4.5,
+    "tags": [
+      "gaming",
+      "5g",
+      "laptop"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/hp/front.png",
+      "https://cdn.example.com/hp/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 29.2,
+      "width": 8.1,
+      "height": 2.8
+    },
+    "seller": {
+      "seller_id": "512b03e2-cc5c-4099-84bf-376eecf8b4d6",
+      "name": "HP World",
+      "email": "support@hpworld.in",
+      "website": "https://www.hpworld.in"
+    },
+    "created_at": "2025-03-13T00:00:00Z"
+  },
+  {
+    "id": "73fa9891-9feb-4251-a196-4935760a66a0",
+    "sku": "APPL-363GB-057",
+    "name": "Apple Model X",
+    "description": "Official Apple product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Apple",
+    "price": 35348.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 22,
+    "is_active": true,
+    "rating": 4.3,
+    "tags": [
+      "laptop",
+      "gaming",
+      "phone"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/apple/front.png",
+      "https://cdn.example.com/apple/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 22.5,
+      "width": 12.7,
+      "height": 2.2
+    },
+    "seller": {
+      "seller_id": "60f08ef0-796d-4bc4-ba91-452afcf31ed3",
+      "name": "Apple Store India",
+      "email": "support@applestoreindia.in",
+      "website": "https://www.applestoreindia.in"
+    },
+    "created_at": "2024-06-05T00:00:00Z"
+  },
+  {
+    "id": "8395d820-3554-40b8-b8f3-906c3b944dbe",
+    "sku": "DELL-327GB-058",
+    "name": "Dell Model Ultra",
+    "description": "Official Dell product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Dell",
+    "price": 123602.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 104,
+    "is_active": true,
+    "rating": 4.6,
+    "tags": [
+      "amoled",
+      "gaming",
+      "camera"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/dell/front.png",
+      "https://cdn.example.com/dell/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 12.9,
+      "width": 11.6,
+      "height": 1.6
+    },
+    "seller": {
+      "seller_id": "16ee53ec-f2b2-4bbe-b9dd-0a277d64c682",
+      "name": "Dell Exclusive",
+      "email": "support@dellexclusive.in",
+      "website": "https://www.dellexclusive.in"
+    },
+    "created_at": "2025-10-05T00:00:00Z"
+  },
+  {
+    "id": "adcac88f-3078-41c9-a030-6618396da6b2",
+    "sku": "HP-102GB-059",
+    "name": "HP Model Pro",
+    "description": "Official HP product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "HP",
+    "price": 177356.0,
+    "currency": "INR",
+    "discount_percent": 15,
+    "stock": 32,
+    "is_active": true,
+    "rating": 4.1,
+    "tags": [
+      "laptop",
+      "amoled",
+      "camera"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/hp/front.png",
+      "https://cdn.example.com/hp/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 20.7,
+      "width": 10.8,
+      "height": 1.6
+    },
+    "seller": {
+      "seller_id": "8c6c402d-5eb3-4512-9551-2adeb8a7ed18",
+      "name": "HP World",
+      "email": "support@hpworld.in",
+      "website": "https://www.hpworld.in"
+    },
+    "created_at": "2025-09-24T00:00:00Z"
+  },
+  {
+    "id": "65b96553-d2e9-4c41-b2bc-f72c37ab3e42",
+    "sku": "DELL-310GB-060",
+    "name": "Dell Model Ultra",
+    "description": "Official Dell product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Dell",
+    "price": 101685.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 67,
+    "is_active": true,
+    "rating": 4.3,
+    "tags": [
+      "tablet",
+      "gaming",
+      "camera"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/dell/front.png",
+      "https://cdn.example.com/dell/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 13.1,
+      "width": 11.7,
+      "height": 0.9
+    },
+    "seller": {
+      "seller_id": "ecf9e41f-8aa4-407f-af86-f038fb4e995e",
+      "name": "Dell Exclusive",
+      "email": "support@dellexclusive.in",
+      "website": "https://www.dellexclusive.in"
+    },
+    "created_at": "2025-04-01T00:00:00Z"
+  },
+  {
+    "id": "a350b873-e8bf-4197-a319-453e5b21555a",
+    "sku": "XIAO-127GB-061",
+    "name": "Xiaomi Model Air",
+    "description": "Official Xiaomi product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "Xiaomi",
+    "price": 102074.0,
+    "currency": "INR",
+    "discount_percent": 15,
+    "stock": 71,
+    "is_active": true,
+    "rating": 4.7,
+    "tags": [
+      "camera",
+      "phone",
+      "amoled"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/xiaomi/front.png",
+      "https://cdn.example.com/xiaomi/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 19.8,
+      "width": 23.4,
+      "height": 1.9
+    },
+    "seller": {
+      "seller_id": "01743740-2370-4bdb-8cf7-132764e5b1b5",
+      "name": "Mi Store",
+      "email": "support@mistore.in",
+      "website": "https://www.mistore.in"
+    },
+    "created_at": "2024-12-19T00:00:00Z"
+  },
+  {
+    "id": "d0f40d95-f580-4ee6-be81-b1ee1ac05ad3",
+    "sku": "ASUS-422GB-062",
+    "name": "Asus Model Air",
+    "description": "Official Asus product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "Asus",
+    "price": 96693.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 55,
+    "is_active": true,
+    "rating": 4.0,
+    "tags": [
+      "camera",
+      "charger",
+      "5g"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/asus/front.png",
+      "https://cdn.example.com/asus/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 20.9,
+      "width": 11.5,
+      "height": 2.3
+    },
+    "seller": {
+      "seller_id": "e10edaef-22cf-4ea7-b47f-6dd7c11a443a",
+      "name": "Asus Exclusive",
+      "email": "support@asusexclusive.in",
+      "website": "https://www.asusexclusive.in"
+    },
+    "created_at": "2025-05-07T00:00:00Z"
+  },
+  {
+    "id": "b42120e0-bacf-4437-9810-f0c06fb5d3db",
+    "sku": "DELL-454GB-063",
+    "name": "Dell Model Air",
+    "description": "Official Dell product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Dell",
+    "price": 88208.0,
+    "currency": "INR",
+    "discount_percent": 0,
+    "stock": 53,
+    "is_active": true,
+    "rating": 4.8,
+    "tags": [
+      "camera",
+      "5g",
+      "laptop"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/dell/front.png",
+      "https://cdn.example.com/dell/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 32.2,
+      "width": 17.3,
+      "height": 2.9
+    },
+    "seller": {
+      "seller_id": "329bf282-f263-41fb-972e-1644501eda6a",
+      "name": "Dell Exclusive",
+      "email": "support@dellexclusive.in",
+      "website": "https://www.dellexclusive.in"
+    },
+    "created_at": "2024-05-14T00:00:00Z"
+  },
+  {
+    "id": "50074680-9f6c-4862-82d9-b91b9ffb8435",
+    "sku": "SONY-477GB-064",
+    "name": "Sony Model Pro",
+    "description": "Official Sony product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "Sony",
+    "price": 168673.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 85,
+    "is_active": true,
+    "rating": 4.2,
+    "tags": [
+      "phone",
+      "gaming",
+      "amoled"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/sony/front.png",
+      "https://cdn.example.com/sony/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 32.6,
+      "width": 18.7,
+      "height": 3.4
+    },
+    "seller": {
+      "seller_id": "f5961c15-09e1-4732-bfcb-ff8a648f4df1",
+      "name": "Sony Center",
+      "email": "support@sonycenter.in",
+      "website": "https://www.sonycenter.in"
+    },
+    "created_at": "2025-06-03T00:00:00Z"
+  },
+  {
+    "id": "4b546dee-2194-49aa-80e4-33df4f300872",
+    "sku": "DELL-243GB-065",
+    "name": "Dell Model Pro",
+    "description": "Official Dell product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "Dell",
+    "price": 121406.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 10,
+    "is_active": true,
+    "rating": 4.4,
+    "tags": [
+      "amoled",
+      "phone",
+      "gaming"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/dell/front.png",
+      "https://cdn.example.com/dell/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 31.5,
+      "width": 16.9,
+      "height": 2.9
+    },
+    "seller": {
+      "seller_id": "9ba13e67-ff1f-4327-8f14-574852086d10",
+      "name": "Dell Exclusive",
+      "email": "support@dellexclusive.in",
+      "website": "https://www.dellexclusive.in"
+    },
+    "created_at": "2024-02-19T00:00:00Z"
+  },
+  {
+    "id": "54e32f3d-7bc5-4f19-ab03-cdc2a8f10cf8",
+    "sku": "LENO-264GB-066",
+    "name": "Lenovo Model Air",
+    "description": "Official Lenovo product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "Lenovo",
+    "price": 55236.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 114,
+    "is_active": true,
+    "rating": 4.6,
+    "tags": [
+      "laptop",
+      "gaming",
+      "5g"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/lenovo/front.png",
+      "https://cdn.example.com/lenovo/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 15.8,
+      "width": 11.9,
+      "height": 3.2
+    },
+    "seller": {
+      "seller_id": "16fad5d9-63db-46e6-aaa0-d3bed2d3fc8d",
+      "name": "Lenovo Store",
+      "email": "support@lenovostore.in",
+      "website": "https://www.lenovostore.in"
+    },
+    "created_at": "2024-02-04T00:00:00Z"
+  },
+  {
+    "id": "8d4d4293-ada1-4bc5-8c20-470f3cb00bfd",
+    "sku": "ONEP-336GB-067",
+    "name": "OnePlus Model Pro",
+    "description": "Official OnePlus product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "OnePlus",
+    "price": 138010.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 63,
+    "is_active": true,
+    "rating": 4.1,
+    "tags": [
+      "amoled",
+      "laptop",
+      "5g"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/oneplus/front.png",
+      "https://cdn.example.com/oneplus/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 33.5,
+      "width": 19.1,
+      "height": 0.9
+    },
+    "seller": {
+      "seller_id": "df302568-d461-4206-b910-d4a010692312",
+      "name": "OnePlus Store",
+      "email": "support@oneplusstore.in",
+      "website": "https://www.oneplusstore.in"
+    },
+    "created_at": "2024-07-01T00:00:00Z"
+  },
+  {
+    "id": "24b4cbda-9c36-466d-ba3b-fa7818c3d991",
+    "sku": "SONY-340GB-068",
+    "name": "Sony Model Pro",
+    "description": "Official Sony product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Sony",
+    "price": 26749.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 11,
+    "is_active": true,
+    "rating": 3.9,
+    "tags": [
+      "amoled",
+      "phone",
+      "gaming"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/sony/front.png",
+      "https://cdn.example.com/sony/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 18.0,
+      "width": 9.6,
+      "height": 0.9
+    },
+    "seller": {
+      "seller_id": "3962b3f4-925b-4708-8220-d255d76fa18b",
+      "name": "Sony Center",
+      "email": "support@sonycenter.in",
+      "website": "https://www.sonycenter.in"
+    },
+    "created_at": "2025-07-20T00:00:00Z"
+  },
+  {
+    "id": "80d82672-2c08-4cc2-a7dc-2ef37af1102a",
+    "sku": "APPL-401GB-069",
+    "name": "Apple Model Max",
+    "description": "Official Apple product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "Apple",
+    "price": 136560.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 10,
+    "is_active": true,
+    "rating": 4.6,
+    "tags": [
+      "charger",
+      "ssd",
+      "amoled"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/apple/front.png",
+      "https://cdn.example.com/apple/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 25.9,
+      "width": 20.1,
+      "height": 2.3
+    },
+    "seller": {
+      "seller_id": "1e605221-e05f-4d4d-a786-d97865046985",
+      "name": "Apple Store India",
+      "email": "support@applestoreindia.in",
+      "website": "https://www.applestoreindia.in"
+    },
+    "created_at": "2024-01-20T00:00:00Z"
+  },
+  {
+    "id": "aca4cfbc-19cc-4bb5-9582-976ab99e7902",
+    "sku": "DELL-281GB-070",
+    "name": "Dell Model Ultra",
+    "description": "Official Dell product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "Dell",
+    "price": 83443.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 46,
+    "is_active": true,
+    "rating": 4.6,
+    "tags": [
+      "camera",
+      "gaming",
+      "amoled"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/dell/front.png",
+      "https://cdn.example.com/dell/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 34.5,
+      "width": 7.1,
+      "height": 2.4
+    },
+    "seller": {
+      "seller_id": "4f77039f-4249-432f-a9a0-b9b8c34c6b4e",
+      "name": "Dell Exclusive",
+      "email": "support@dellexclusive.in",
+      "website": "https://www.dellexclusive.in"
+    },
+    "created_at": "2024-02-19T00:00:00Z"
+  },
+  {
+    "id": "75796a0b-a5ae-4307-b35e-3f3d27ab552c",
+    "sku": "ONEP-249GB-071",
+    "name": "OnePlus Model X",
+    "description": "Official OnePlus product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "OnePlus",
+    "price": 165459.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 1,
+    "is_active": true,
+    "rating": 3.9,
+    "tags": [
+      "laptop",
+      "tablet",
+      "5g"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/oneplus/front.png",
+      "https://cdn.example.com/oneplus/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 34.2,
+      "width": 24.5,
+      "height": 2.4
+    },
+    "seller": {
+      "seller_id": "3938f7bd-2309-4d2d-99ae-7ca0f6c3cd5e",
+      "name": "OnePlus Store",
+      "email": "support@oneplusstore.in",
+      "website": "https://www.oneplusstore.in"
+    },
+    "created_at": "2024-01-29T00:00:00Z"
+  },
+  {
+    "id": "088f764c-281d-45c4-8853-447febc6ec58",
+    "sku": "DELL-455GB-072",
+    "name": "Dell Model Air",
+    "description": "Official Dell product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Dell",
+    "price": 101905.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 34,
+    "is_active": true,
+    "rating": 4.2,
+    "tags": [
+      "camera",
+      "5g",
+      "charger"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/dell/front.png",
+      "https://cdn.example.com/dell/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 18.3,
+      "width": 12.0,
+      "height": 1.6
+    },
+    "seller": {
+      "seller_id": "4e01ee06-d01d-44c4-9cfd-d98b297636b8",
+      "name": "Dell Exclusive",
+      "email": "support@dellexclusive.in",
+      "website": "https://www.dellexclusive.in"
+    },
+    "created_at": "2024-11-23T00:00:00Z"
+  },
+  {
+    "id": "b8b361b0-2099-4a99-b49c-a7f6322c38bc",
+    "sku": "ASUS-151GB-073",
+    "name": "Asus Model Ultra",
+    "description": "Official Asus product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "Asus",
+    "price": 86351.0,
+    "currency": "INR",
+    "discount_percent": 15,
+    "stock": 4,
+    "is_active": true,
+    "rating": 3.9,
+    "tags": [
+      "laptop",
+      "charger",
+      "camera"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/asus/front.png",
+      "https://cdn.example.com/asus/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 26.8,
+      "width": 9.8,
+      "height": 0.9
+    },
+    "seller": {
+      "seller_id": "5da79bd0-2073-4d18-ab25-003509a2d790",
+      "name": "Asus Exclusive",
+      "email": "support@asusexclusive.in",
+      "website": "https://www.asusexclusive.in"
+    },
+    "created_at": "2024-10-02T00:00:00Z"
+  },
+  {
+    "id": "2d0a0f9d-e301-43e9-a6cf-466544baaf19",
+    "sku": "APPL-327GB-074",
+    "name": "Apple Model X",
+    "description": "Official Apple product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Apple",
+    "price": 30887.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 87,
+    "is_active": true,
+    "rating": 4.2,
+    "tags": [
+      "tablet",
+      "laptop",
+      "phone"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/apple/front.png",
+      "https://cdn.example.com/apple/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 24.4,
+      "width": 16.1,
+      "height": 2.9
+    },
+    "seller": {
+      "seller_id": "62941be3-f2c9-4d3d-9650-022d562034ef",
+      "name": "Apple Store India",
+      "email": "support@applestoreindia.in",
+      "website": "https://www.applestoreindia.in"
+    },
+    "created_at": "2025-11-22T00:00:00Z"
+  },
+  {
+    "id": "06095e47-db16-4666-bd7a-f8c526ff93f3",
+    "sku": "XIAO-430GB-075",
+    "name": "Xiaomi Model X",
+    "description": "Official Xiaomi product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "Xiaomi",
+    "price": 160841.0,
+    "currency": "INR",
+    "discount_percent": 15,
+    "stock": 65,
+    "is_active": true,
+    "rating": 4.3,
+    "tags": [
+      "gaming",
+      "phone",
+      "tablet"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/xiaomi/front.png",
+      "https://cdn.example.com/xiaomi/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 25.5,
+      "width": 16.8,
+      "height": 1.5
+    },
+    "seller": {
+      "seller_id": "36ed664d-bf4e-49df-bd2d-ff74f63e9976",
+      "name": "Mi Store",
+      "email": "support@mistore.in",
+      "website": "https://www.mistore.in"
+    },
+    "created_at": "2024-01-04T00:00:00Z"
+  },
+  {
+    "id": "be989483-1fa0-40fd-8273-05820971c66b",
+    "sku": "SAMS-222GB-076",
+    "name": "Samsung Model Pro",
+    "description": "Official Samsung product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Samsung",
+    "price": 76390.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 59,
+    "is_active": true,
+    "rating": 3.8,
+    "tags": [
+      "laptop",
+      "5g",
+      "camera"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/samsung/front.png",
+      "https://cdn.example.com/samsung/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 16.2,
+      "width": 23.1,
+      "height": 0.6
+    },
+    "seller": {
+      "seller_id": "dbcf6f9d-6455-423b-878d-7c7a316c6fb9",
+      "name": "Samsung India",
+      "email": "support@samsungindia.in",
+      "website": "https://www.samsungindia.in"
+    },
+    "created_at": "2024-12-23T00:00:00Z"
+  },
+  {
+    "id": "cbbce994-e4f7-4ab1-9c80-ae0db9ad46ab",
+    "sku": "ONEP-209GB-077",
+    "name": "OnePlus Model X",
+    "description": "Official OnePlus product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "OnePlus",
+    "price": 85734.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 29,
+    "is_active": true,
+    "rating": 4.3,
+    "tags": [
+      "gaming",
+      "ssd",
+      "amoled"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/oneplus/front.png",
+      "https://cdn.example.com/oneplus/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 31.4,
+      "width": 17.4,
+      "height": 3.1
+    },
+    "seller": {
+      "seller_id": "2227f053-ed5e-4a56-8417-a1c98e6d5711",
+      "name": "OnePlus Store",
+      "email": "support@oneplusstore.in",
+      "website": "https://www.oneplusstore.in"
+    },
+    "created_at": "2024-02-25T00:00:00Z"
+  },
+  {
+    "id": "266c0f13-16c4-4c1f-bf2a-a425f41e9284",
+    "sku": "ASUS-446GB-078",
+    "name": "Asus Model Pro",
+    "description": "Official Asus product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Asus",
+    "price": 137278.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 100,
+    "is_active": true,
+    "rating": 4.0,
+    "tags": [
+      "phone",
+      "5g",
+      "gaming"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/asus/front.png",
+      "https://cdn.example.com/asus/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 32.1,
+      "width": 14.5,
+      "height": 1.8
+    },
+    "seller": {
+      "seller_id": "00882ae2-1aa0-4e65-9dbe-1192928159d7",
+      "name": "Asus Exclusive",
+      "email": "support@asusexclusive.in",
+      "website": "https://www.asusexclusive.in"
+    },
+    "created_at": "2024-05-03T00:00:00Z"
+  },
+  {
+    "id": "3db5851c-eb5e-4841-a83a-1025d69b310e",
+    "sku": "SONY-170GB-079",
+    "name": "Sony Model Air",
+    "description": "Official Sony product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Sony",
+    "price": 52160.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 72,
+    "is_active": true,
+    "rating": 3.9,
+    "tags": [
+      "tablet",
+      "gaming",
+      "amoled"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/sony/front.png",
+      "https://cdn.example.com/sony/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 13.2,
+      "width": 8.2,
+      "height": 2.2
+    },
+    "seller": {
+      "seller_id": "019c16c2-2f3a-450d-a755-776b87dcff44",
+      "name": "Sony Center",
+      "email": "support@sonycenter.in",
+      "website": "https://www.sonycenter.in"
+    },
+    "created_at": "2024-04-12T00:00:00Z"
+  },
+  {
+    "id": "a43a0ab3-80dd-4f5e-a9a3-3f55a9f04510",
+    "sku": "SAMS-486GB-080",
+    "name": "Samsung Model Air",
+    "description": "Official Samsung product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Samsung",
+    "price": 131698.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 104,
+    "is_active": true,
+    "rating": 4.7,
+    "tags": [
+      "laptop",
+      "ssd",
+      "amoled"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/samsung/front.png",
+      "https://cdn.example.com/samsung/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 34.5,
+      "width": 14.9,
+      "height": 0.9
+    },
+    "seller": {
+      "seller_id": "9072b1e3-acb1-4cde-b4cb-c1164c0a6df2",
+      "name": "Samsung India",
+      "email": "support@samsungindia.in",
+      "website": "https://www.samsungindia.in"
+    },
+    "created_at": "2024-05-17T00:00:00Z"
+  },
+  {
+    "id": "3c8e3827-1432-411f-b372-bae4beb257d7",
+    "sku": "APPL-66GB-081",
+    "name": "Apple Model Air",
+    "description": "Official Apple product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Apple",
+    "price": 42600.0,
+    "currency": "INR",
+    "discount_percent": 15,
+    "stock": 114,
+    "is_active": true,
+    "rating": 4.7,
+    "tags": [
+      "gaming",
+      "tablet",
+      "laptop"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/apple/front.png",
+      "https://cdn.example.com/apple/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 33.3,
+      "width": 16.4,
+      "height": 1.7
+    },
+    "seller": {
+      "seller_id": "c5bee014-e034-47ee-9fd4-47aca9458b72",
+      "name": "Apple Store India",
+      "email": "support@applestoreindia.in",
+      "website": "https://www.applestoreindia.in"
+    },
+    "created_at": "2025-06-15T00:00:00Z"
+  },
+  {
+    "id": "4facf852-9bfe-4b51-b104-605353e087aa",
+    "sku": "LENO-507GB-082",
+    "name": "Lenovo Model Max",
+    "description": "Official Lenovo product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Lenovo",
+    "price": 115288.0,
+    "currency": "INR",
+    "discount_percent": 15,
+    "stock": 65,
+    "is_active": true,
+    "rating": 4.1,
+    "tags": [
+      "gaming",
+      "phone",
+      "ssd"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/lenovo/front.png",
+      "https://cdn.example.com/lenovo/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 25.9,
+      "width": 14.5,
+      "height": 3.0
+    },
+    "seller": {
+      "seller_id": "12a63414-476f-4da7-847d-b091b17e9576",
+      "name": "Lenovo Store",
+      "email": "support@lenovostore.in",
+      "website": "https://www.lenovostore.in"
+    },
+    "created_at": "2024-01-25T00:00:00Z"
+  },
+  {
+    "id": "579b153f-a4dd-48f5-9e4d-46bde9770442",
+    "sku": "SONY-317GB-083",
+    "name": "Sony Model X",
+    "description": "Official Sony product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "Sony",
+    "price": 129426.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 113,
+    "is_active": true,
+    "rating": 4.6,
+    "tags": [
+      "tablet",
+      "charger",
+      "5g"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/sony/front.png",
+      "https://cdn.example.com/sony/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 19.0,
+      "width": 21.1,
+      "height": 2.7
+    },
+    "seller": {
+      "seller_id": "ae43f28e-0bf9-401b-8799-bb8486b2a04f",
+      "name": "Sony Center",
+      "email": "support@sonycenter.in",
+      "website": "https://www.sonycenter.in"
+    },
+    "created_at": "2025-07-23T00:00:00Z"
+  },
+  {
+    "id": "8c1ac527-4d21-47ac-bc25-006187341f40",
+    "sku": "SONY-389GB-084",
+    "name": "Sony Model Pro",
+    "description": "Official Sony product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Sony",
+    "price": 176406.0,
+    "currency": "INR",
+    "discount_percent": 0,
+    "stock": 106,
+    "is_active": true,
+    "rating": 4.6,
+    "tags": [
+      "amoled",
+      "phone",
+      "camera"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/sony/front.png",
+      "https://cdn.example.com/sony/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 28.6,
+      "width": 19.5,
+      "height": 3.3
+    },
+    "seller": {
+      "seller_id": "a355e333-9264-437f-8e23-49b6b2a5a158",
+      "name": "Sony Center",
+      "email": "support@sonycenter.in",
+      "website": "https://www.sonycenter.in"
+    },
+    "created_at": "2025-10-10T00:00:00Z"
+  },
+  {
+    "id": "34bc25d7-edfb-4ec3-823b-212a9f89ac11",
+    "sku": "ASUS-118GB-085",
+    "name": "Asus Model Air",
+    "description": "Official Asus product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "Asus",
+    "price": 19727.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 117,
+    "is_active": true,
+    "rating": 4.8,
+    "tags": [
+      "amoled",
+      "ssd",
+      "5g"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/asus/front.png",
+      "https://cdn.example.com/asus/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 33.7,
+      "width": 22.6,
+      "height": 2.3
+    },
+    "seller": {
+      "seller_id": "837de10c-d477-4f51-a8f1-548559673d9e",
+      "name": "Asus Exclusive",
+      "email": "support@asusexclusive.in",
+      "website": "https://www.asusexclusive.in"
+    },
+    "created_at": "2024-04-16T00:00:00Z"
+  },
+  {
+    "id": "ca95595c-e600-4bbd-bd96-351142d21a14",
+    "sku": "HP-286GB-086",
+    "name": "HP Model Max",
+    "description": "Official HP product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "HP",
+    "price": 69817.0,
+    "currency": "INR",
+    "discount_percent": 15,
+    "stock": 76,
+    "is_active": true,
+    "rating": 4.1,
+    "tags": [
+      "gaming",
+      "tablet",
+      "camera"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/hp/front.png",
+      "https://cdn.example.com/hp/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 16.7,
+      "width": 13.2,
+      "height": 1.7
+    },
+    "seller": {
+      "seller_id": "f75a2f55-f203-49b4-8636-e0db1e94fcd8",
+      "name": "HP World",
+      "email": "support@hpworld.in",
+      "website": "https://www.hpworld.in"
+    },
+    "created_at": "2024-04-02T00:00:00Z"
+  },
+  {
+    "id": "3883468f-b0c6-4ba0-b552-5e68c7878c3c",
+    "sku": "SONY-374GB-087",
+    "name": "Sony Model Pro",
+    "description": "Official Sony product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "Sony",
+    "price": 17534.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 81,
+    "is_active": true,
+    "rating": 4.3,
+    "tags": [
+      "amoled",
+      "phone",
+      "laptop"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/sony/front.png",
+      "https://cdn.example.com/sony/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 16.4,
+      "width": 21.1,
+      "height": 0.9
+    },
+    "seller": {
+      "seller_id": "9cd0c390-0ae7-4756-a8e6-fcc65749324a",
+      "name": "Sony Center",
+      "email": "support@sonycenter.in",
+      "website": "https://www.sonycenter.in"
+    },
+    "created_at": "2024-01-20T00:00:00Z"
+  },
+  {
+    "id": "269229c2-7be6-4a24-b689-5a392d57757b",
+    "sku": "APPL-464GB-088",
+    "name": "Apple Model Ultra",
+    "description": "Official Apple product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Apple",
+    "price": 122982.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 95,
+    "is_active": true,
+    "rating": 4.1,
+    "tags": [
+      "charger",
+      "phone",
+      "ssd"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/apple/front.png",
+      "https://cdn.example.com/apple/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 23.7,
+      "width": 10.8,
+      "height": 0.9
+    },
+    "seller": {
+      "seller_id": "0b41f458-8ce5-41cc-9463-e6c5fbc126bb",
+      "name": "Apple Store India",
+      "email": "support@applestoreindia.in",
+      "website": "https://www.applestoreindia.in"
+    },
+    "created_at": "2024-06-25T00:00:00Z"
+  },
+  {
+    "id": "76b753ff-f92b-4c91-ae16-1208718b2173",
+    "sku": "XIAO-264GB-089",
+    "name": "Xiaomi Model Pro",
+    "description": "Official Xiaomi product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "Xiaomi",
+    "price": 88796.0,
+    "currency": "INR",
+    "discount_percent": 0,
+    "stock": 63,
+    "is_active": true,
+    "rating": 3.9,
+    "tags": [
+      "ssd",
+      "tablet",
+      "phone"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/xiaomi/front.png",
+      "https://cdn.example.com/xiaomi/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 22.7,
+      "width": 13.9,
+      "height": 2.7
+    },
+    "seller": {
+      "seller_id": "29311ba8-4599-44d8-9548-82217e8b21d8",
+      "name": "Mi Store",
+      "email": "support@mistore.in",
+      "website": "https://www.mistore.in"
+    },
+    "created_at": "2025-06-25T00:00:00Z"
+  },
+  {
+    "id": "ce0a72ea-f4b5-4293-b3f4-49e29f2bcd79",
+    "sku": "APPL-233GB-090",
+    "name": "Apple Model X",
+    "description": "Official Apple product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Apple",
+    "price": 21825.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 9,
+    "is_active": true,
+    "rating": 4.2,
+    "tags": [
+      "5g",
+      "tablet",
+      "gaming"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/apple/front.png",
+      "https://cdn.example.com/apple/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 18.4,
+      "width": 7.3,
+      "height": 2.0
+    },
+    "seller": {
+      "seller_id": "c1c48826-744d-4c1b-a581-58c3189f8f4f",
+      "name": "Apple Store India",
+      "email": "support@applestoreindia.in",
+      "website": "https://www.applestoreindia.in"
+    },
+    "created_at": "2025-09-24T00:00:00Z"
+  },
+  {
+    "id": "2ae57506-1324-4eb1-94a6-225a90620f0c",
+    "sku": "ONEP-400GB-091",
+    "name": "OnePlus Model X",
+    "description": "Official OnePlus product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "OnePlus",
+    "price": 142082.0,
+    "currency": "INR",
+    "discount_percent": 0,
+    "stock": 90,
+    "is_active": true,
+    "rating": 3.8,
+    "tags": [
+      "charger",
+      "5g",
+      "ssd"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/oneplus/front.png",
+      "https://cdn.example.com/oneplus/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 34.7,
+      "width": 7.6,
+      "height": 3.0
+    },
+    "seller": {
+      "seller_id": "980b9d26-a210-4a08-a8ee-272b865981be",
+      "name": "OnePlus Store",
+      "email": "support@oneplusstore.in",
+      "website": "https://www.oneplusstore.in"
+    },
+    "created_at": "2024-09-15T00:00:00Z"
+  },
+  {
+    "id": "31ccfbc2-4ae4-447a-970f-353467f5e9cb",
+    "sku": "REAL-180GB-092",
+    "name": "Realme Model Pro",
+    "description": "Official Realme product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "Realme",
+    "price": 26893.0,
+    "currency": "INR",
+    "discount_percent": 0,
+    "stock": 49,
+    "is_active": true,
+    "rating": 4.2,
+    "tags": [
+      "amoled",
+      "ssd",
+      "tablet"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/realme/front.png",
+      "https://cdn.example.com/realme/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 26.1,
+      "width": 22.5,
+      "height": 1.0
+    },
+    "seller": {
+      "seller_id": "576b46ea-84b7-4693-9a79-9539b5b743a7",
+      "name": "Realme Official",
+      "email": "support@realmeofficial.in",
+      "website": "https://www.realmeofficial.in"
+    },
+    "created_at": "2025-03-19T00:00:00Z"
+  },
+  {
+    "id": "2f661869-da56-4edc-b722-0a43462e54f8",
+    "sku": "REAL-365GB-093",
+    "name": "Realme Model Max",
+    "description": "Official Realme product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Realme",
+    "price": 53130.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 99,
+    "is_active": true,
+    "rating": 4.0,
+    "tags": [
+      "5g",
+      "laptop",
+      "ssd"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/realme/front.png",
+      "https://cdn.example.com/realme/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 18.1,
+      "width": 13.2,
+      "height": 1.5
+    },
+    "seller": {
+      "seller_id": "357e6293-9cca-4f2e-9b39-4922bec384f3",
+      "name": "Realme Official",
+      "email": "support@realmeofficial.in",
+      "website": "https://www.realmeofficial.in"
+    },
+    "created_at": "2024-01-11T00:00:00Z"
+  },
+  {
+    "id": "2cac1c2a-9692-4fb8-97b3-6bbf9dc615c0",
+    "sku": "SAMS-383GB-094",
+    "name": "Samsung Model Max",
+    "description": "Official Samsung product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Samsung",
+    "price": 89469.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 37,
+    "is_active": true,
+    "rating": 4.4,
+    "tags": [
+      "gaming",
+      "ssd",
+      "laptop"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/samsung/front.png",
+      "https://cdn.example.com/samsung/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 27.1,
+      "width": 22.0,
+      "height": 2.9
+    },
+    "seller": {
+      "seller_id": "10c5a2ed-9d63-40ef-85f2-9700294fb743",
+      "name": "Samsung India",
+      "email": "support@samsungindia.in",
+      "website": "https://www.samsungindia.in"
+    },
+    "created_at": "2024-09-01T00:00:00Z"
+  },
+  {
+    "id": "68a08eea-dc68-4332-a04a-40c224b51dd0",
+    "sku": "REAL-377GB-095",
+    "name": "Realme Model Ultra",
+    "description": "Official Realme product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Realme",
+    "price": 25002.0,
+    "currency": "INR",
+    "discount_percent": 20,
+    "stock": 66,
+    "is_active": true,
+    "rating": 4.7,
+    "tags": [
+      "camera",
+      "laptop",
+      "tablet"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/realme/front.png",
+      "https://cdn.example.com/realme/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 24.4,
+      "width": 13.2,
+      "height": 0.7
+    },
+    "seller": {
+      "seller_id": "63ef5545-1e94-4a32-81f9-1b53a44a6658",
+      "name": "Realme Official",
+      "email": "support@realmeofficial.in",
+      "website": "https://www.realmeofficial.in"
+    },
+    "created_at": "2025-02-24T00:00:00Z"
+  },
+  {
+    "id": "255c7c45-7128-41d7-9975-b92e3de7c78f",
+    "sku": "ASUS-436GB-096",
+    "name": "Asus Model X",
+    "description": "Official Asus product with manufacturer warranty",
+    "category": "mobiles",
+    "brand": "Asus",
+    "price": 166929.0,
+    "currency": "INR",
+    "discount_percent": 15,
+    "stock": 35,
+    "is_active": true,
+    "rating": 4.0,
+    "tags": [
+      "5g",
+      "laptop",
+      "amoled"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/asus/front.png",
+      "https://cdn.example.com/asus/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 16.0,
+      "width": 16.2,
+      "height": 2.3
+    },
+    "seller": {
+      "seller_id": "366fe048-abea-4a84-a0a7-6b99db4febcb",
+      "name": "Asus Exclusive",
+      "email": "support@asusexclusive.in",
+      "website": "https://www.asusexclusive.in"
+    },
+    "created_at": "2025-02-25T00:00:00Z"
+  },
+  {
+    "id": "987ac7ab-4fd1-4bd2-9d13-6db52ffb61d2",
+    "sku": "HP-462GB-097",
+    "name": "HP Model Pro",
+    "description": "Official HP product with manufacturer warranty",
+    "category": "electronics",
+    "brand": "HP",
+    "price": 130691.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 99,
+    "is_active": true,
+    "rating": 4.6,
+    "tags": [
+      "gaming",
+      "tablet",
+      "amoled"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/hp/front.png",
+      "https://cdn.example.com/hp/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 32.8,
+      "width": 13.9,
+      "height": 2.0
+    },
+    "seller": {
+      "seller_id": "4dc3da7c-19e0-4422-bd48-7aa697ebab37",
+      "name": "HP World",
+      "email": "support@hpworld.in",
+      "website": "https://www.hpworld.in"
+    },
+    "created_at": "2025-08-07T00:00:00Z"
+  },
+  {
+    "id": "e992ef28-64c8-4932-83a3-c4d1120cf9e8",
+    "sku": "LENO-153GB-098",
+    "name": "Lenovo Model Max",
+    "description": "Official Lenovo product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "Lenovo",
+    "price": 116668.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 118,
+    "is_active": true,
+    "rating": 4.5,
+    "tags": [
+      "tablet",
+      "camera",
+      "gaming"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/lenovo/front.png",
+      "https://cdn.example.com/lenovo/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 31.7,
+      "width": 10.3,
+      "height": 3.3
+    },
+    "seller": {
+      "seller_id": "098e5ecf-ac69-4283-9d7f-410badf70968",
+      "name": "Lenovo Store",
+      "email": "support@lenovostore.in",
+      "website": "https://www.lenovostore.in"
+    },
+    "created_at": "2024-07-27T00:00:00Z"
+  },
+  {
+    "id": "cad06456-b6d3-4b85-abe8-26bc8afba19a",
+    "sku": "SONY-125GB-099",
+    "name": "Sony Model X",
+    "description": "Official Sony product with manufacturer warranty",
+    "category": "accessories",
+    "brand": "Sony",
+    "price": 159429.0,
+    "currency": "INR",
+    "discount_percent": 5,
+    "stock": 102,
+    "is_active": true,
+    "rating": 4.1,
+    "tags": [
+      "5g",
+      "laptop",
+      "phone"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/sony/front.png",
+      "https://cdn.example.com/sony/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 33.1,
+      "width": 11.5,
+      "height": 3.2
+    },
+    "seller": {
+      "seller_id": "93596648-555b-4b1e-be24-7e0ecfcfefe5",
+      "name": "Sony Center",
+      "email": "support@sonycenter.in",
+      "website": "https://www.sonycenter.in"
+    },
+    "created_at": "2025-09-12T00:00:00Z"
+  },
+  {
+    "id": "2a3352cf-f56d-48d7-a31c-db243f775821",
+    "sku": "HP-156GB-100",
+    "name": "HP Model X",
+    "description": "Official HP product with manufacturer warranty",
+    "category": "laptops",
+    "brand": "HP",
+    "price": 179728.0,
+    "currency": "INR",
+    "discount_percent": 0,
+    "stock": 86,
+    "is_active": true,
+    "rating": 4.2,
+    "tags": [
+      "ssd",
+      "charger",
+      "camera"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/hp/front.png",
+      "https://cdn.example.com/hp/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 32.2,
+      "width": 22.8,
+      "height": 2.8
+    },
+    "seller": {
+      "seller_id": "ff912724-f541-47f7-b80b-ab9a2c0ef289",
+      "name": "HP World",
+      "email": "support@hpworld.in",
+      "website": "https://www.hpworld.in"
+    },
+    "created_at": "2025-05-31T00:00:00Z"
+  }
+]
