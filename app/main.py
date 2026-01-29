@@ -1,6 +1,8 @@
 from fastapi import FastAPI, HTTPException, Query, Path
-from service.products import get_all_products
+from service.products import get_all_products, add_product
 from schema.product import Product
+from uuid import uuid4
+from datetime import datetime
 
 app = FastAPI()
 
@@ -84,4 +86,14 @@ def get_product_id(
 
 @app.put('/products', status_code=201)
 def create_product(product:Product):
-    return product
+    product_dict = product.model_dump(mode="json")
+    product_dict["id"] = str(uuid4())
+    product_dict["created_at"] = datetime.utcnow().isoformat() + "Z"
+    try:
+        add_product(product_dict)
+    except ValueError as e: 
+        raise HTTPException(status_code=400, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Server error: {e}")   
+    return product.model_dump(mode="json")
+    
