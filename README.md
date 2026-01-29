@@ -1,4 +1,4 @@
-# FastAPI ML Car Price Prediction API
+# FastAPI Car Price Prediction API
 
 A beginner-friendly FastAPI project implementing CRUD operations with a local JSON database and exposing a Car Price Prediction Machine Learning model via API endpoints. Integrated with a Streamlit frontend for end-to-end learning of backend, ML, and UI.
 
@@ -26,3 +26,4 @@ Install dependencies:
 2. pip install -r requirements.txt
 3. Run FastAPI server:
     - uvicorn main:app --reload
+    - 
