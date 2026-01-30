@@ -47,7 +47,6 @@ FastAPI-CRUD-Products/
 │ ├── main.py
 │ └── pycache/
 │
-├── .env
 ├── requirements.txt
 ├── Swagger UI.png
 ├── README.md
@@ -87,7 +86,9 @@ You can test all endpoints directly from the UI without Postman.
 ---
 
 ## 📸 Screenshots
-![Swagger UI](Swagger UI.png)
+
+### 🔹 Swagger UI Interface
+![Swagger UI](Swagger%20UI.png)
 
 ---
 
