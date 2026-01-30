@@ -59,7 +59,7 @@ FastAPI---Car-Price-API/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/FastAPI-Product-CRUD.git
+git clone [https://github.com/your-username/FastAPI-Product-CRUD.git](https://github.com/MsKrishna-Dev/FastAPI-CRUD-Products.git)
 cd FastAPI-Product-CRUD
 ```
 
