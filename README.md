@@ -55,6 +55,13 @@ FastAPI-CRUD-Products/
 
 ---
 
+## 📸 Screenshots
+
+### 🔹 Swagger UI Interface
+![Swagger UI](Swagger%20UI.png)
+
+---
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
@@ -82,13 +89,6 @@ Server will start at: http://127.0.0.1:8000
 
 Open in browser: http://127.0.0.1:8000/docs
 You can test all endpoints directly from the UI without Postman.
-
----
-
-## 📸 Screenshots
-
-### 🔹 Swagger UI Interface
-![Swagger UI](Swagger%20UI.png)
 
 ---
 
