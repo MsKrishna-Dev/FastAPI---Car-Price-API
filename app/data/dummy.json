@@ -2,20 +2,21 @@
   {
     "id": "0005a4ea-ce3f-4dd7-bee0-f4ccc70fea6a",
     "sku": "XIAO-359GB-001",
-    "name": "Xiaomi Model Pro",
+    "name": "Xiaomi Model",
     "description": "Official Xiaomi product with manufacturer warranty",
     "category": "laptops",
     "brand": "Xiaomi",
     "price": 25058.0,
     "currency": "INR",
-    "discount_percent": 0,
-    "stock": 45,
+    "discount_percent": 45,
+    "stock": 10,
     "is_active": true,
     "rating": 4.8,
     "tags": [
       "charger",
       "amoled",
-      "tablet"
+      "tablet",
+      "PC"
     ],
     "image_urls": [
       "https://cdn.example.com/xiaomi/front.png",
@@ -30,42 +31,10 @@
       "seller_id": "73cbdd06-5668-4e52-b172-e765f8468398",
       "name": "Mi Store",
       "email": "support@mistore.in",
-      "website": "https://www.mistore.in"
+      "website": "https://www.mistore.in/"
     },
-    "created_at": "2024-09-06T00:00:00Z"
-  },
-  {
-    "id": "bf54108f-a0e2-45a7-85e6-31b8a4a60e79",
-    "sku": "XIAO-359GB-124",
-    "name": "Xiaomi Model Pro",
-    "description": "string",
-    "category": "mobiles",
-    "brand": "Xiaomi",
-    "price": 1567.0,
-    "currency": "INR",
-    "discount_percent": 50,
-    "stock": 10,
-    "is_active": true,
-    "rating": 5.0,
-    "tags": [
-      "mobile"
-    ],
-    "image_urls": [
-      "https://example.com/"
-    ],
-    "dimensions": {
-      "length": 17.0,
-      "width": 18.0,
-      "height": 17.0
-    },
-    "seller": {
-      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-      "name": "MI Store",
-      "email": "user@hpworld.in",
-      "website": "https://example.com/"
-    },
-    "created_at": "2026-01-29T16:41:52.127677Z",
-    "final_price": 783.5,
-    "volume": 5202.0
+    "created_at": "2024-09-06T00:00:00Z",
+    "final_price": 13781.9,
+    "volume_cm3": 1082.85
   }
 ]

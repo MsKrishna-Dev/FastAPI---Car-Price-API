@@ -1,15 +1,23 @@
-from fastapi import FastAPI, HTTPException, Query, Path
-from service.products import get_all_products, add_product
-from schema.product import Product
-from uuid import uuid4
+from dotenv import load_dotenv
+import os
+from fastapi import FastAPI, HTTPException, Query, Path, Depends
+from service.products import get_all_products, add_product, remove_product, change_product, load_data
+from schema.product import Product, ProductUpdate
+from uuid import uuid4, UUID
 from datetime import datetime
+from typing import List, Dict
 
+load_dotenv()
 app = FastAPI()
 
-@app.get('/')
+def common_logic():
+    # print("Hello World")
+    return "Hello there"
 
-def root():
-    return {"Message" : "Welcome to FastAPI"}
+@app.get('/', response_model=dict)
+def root(dep = Depends(common_logic)):
+    DB_PATH = os.getenv("BASE_URL")
+    return {"Message" : "Welcome to FastAPI", "Dependency": dep, "Data_Path": DB_PATH}
 
 
 # @app.get('/products/')
@@ -17,7 +25,9 @@ def root():
 #    return get_all_products()
 
 @app.get('/products')
-def list_products(name:str | None = Query(
+def list_products(
+    dep = Depends(load_data),
+    name:str | None = Query(
     default=None,
     min_length=1,
     max_length=50,
@@ -43,7 +53,7 @@ def list_products(name:str | None = Query(
     description="Pagination Offset"
     )
 ):
-    products = get_all_products()
+    products = dep
 
     if name: 
         needle = name.strip().lower()
@@ -96,4 +106,21 @@ def create_product(product:Product):
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Server error: {e}")   
     return product.model_dump(mode="json")
+
+
+@app.delete('/products/{product_id}')
+def delecte_product(product_id : UUID = Path(..., description= "Product UUID")):
+    try:
+        data = remove_product(str(product_id))
+        return data
+    except Exception as e: 
+        raise HTTPException(status_code=400, detail=str(e))
     
+
+@app.put('/products/{product_id}')
+def update_product(product_id : UUID = Path(..., description= "Product UUID"), payload : ProductUpdate = ...,):
+    try:
+        update_product= change_product(str(product_id), payload.model_dump(mode="json",exclude_unset=True))
+        return update_product
+    except ValueError as e:
+        raise HTTPException(status_code=404, detail=str(e))
